@@ -10,9 +10,9 @@
 
 - Instalação do Node.js e NPM
 
-- Prompts (aqui)[https://www.npmjs.com/package/prompts]
+- Prompts [aqui](https://www.npmjs.com/package/prompts)
 
-- Axios (aqui)[https://www.npmjs.com/package/prompts]
+- Axios [aqui](https://www.npmjs.com/package/prompts)
 
 # Instalação
 
