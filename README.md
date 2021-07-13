@@ -11,9 +11,9 @@
 
 # Instalação
 
-- 1. Instalar node.js versão 12 ou superior [aqui](https://nodejs.org/en/)
-- 2. Clone o projeto criado na sua máquina. Instale o git [aqui](https://git-scm.com/downloads)
-- 3. Configure o ambiente
+1. Instalar node.js versão 12 ou superior [aqui](https://nodejs.org/en/)
+2. Clone o projeto criado na sua máquina. Instale o git [aqui](https://git-scm.com/downloads)
+3. Configure o ambiente
 
 # Desenvolvendo
 - Iniciando o projeto com npm start
