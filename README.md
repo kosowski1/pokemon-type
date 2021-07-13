@@ -1,6 +1,7 @@
 # Pokemon-Types
 ## Projeto com o propósito de mostrar as vantagens e desvantagens do pokemon contra seus adversários, de acordo com seus tipos
 
+
 ## Requisitos
 
 - A aplicação deve retornar quais os tipos fortes e fracos contra o pokemon selecionado
@@ -8,6 +9,10 @@
 - O código deverá estar versionado em um repositório público
 
 - Instalação do Node.js e NPM
+
+- Prompts (aqui)[https://www.npmjs.com/package/prompts]
+
+- Axios (aqui)[https://www.npmjs.com/package/prompts]
 
 # Instalação
 
